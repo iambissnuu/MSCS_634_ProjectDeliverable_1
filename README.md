@@ -23,7 +23,7 @@ The dataset contains information about direct marketing campaigns conducted by a
 
 Dataset characteristics:
 
-- Number of records: **45,211**
+- Number of records: **10,000+**
 - Number of attributes: **17**
 - Target variable: **y (subscription to term deposit)**
 
